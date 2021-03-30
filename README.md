@@ -1,1 +1,1 @@
-# Data to aranykez package
+# Data to aranykez package daily
